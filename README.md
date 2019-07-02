@@ -29,18 +29,12 @@ npm install
 Serve the application with hot reload in a development environment via:
 
 ```bash
+npm install -s web3@1.0.0-beta.37
+```
+
+```bash
 npm run dev
 ```
-
-### Boilerplate
-
-If it is only the boilerplate that you want to clone, do it via:
-
-```
-git clone https://github.com/openberry-ac/cryptovipers.git --branch boilerplate --single-branch
-```
-
-And then do the same following commands as shown above for starting the application, you should be all set by then.
 
 ## Built With
 

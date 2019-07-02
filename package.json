@@ -13,7 +13,7 @@
     "bootstrap-vue": "^2.0.0-rc.2",
     "popper.js": "^1.12.9",
     "vue": "^2.5.3",
-    "web3": "1.0.0-beta.37"
+    "web3": "^1.0.0-beta.37"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
