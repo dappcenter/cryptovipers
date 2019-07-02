@@ -2,7 +2,7 @@
 
 A simple Ethereum-based [CryptoKitties](https://www.cryptokitties.co/)-like decentralized application (dapp) where you can own, buy, and breed vipers.
 
-This repository is used in this Medium article:
+Dapp made referring the following tutorial: 
 
 https://medium.com/@sbenemerito/creating-a-cryptokitties-like-dapp-5115efc9e0bb
 
@@ -42,20 +42,6 @@ npm run dev
 * [Vue.js](https://vuejs.org/) - The Javascript framework used
 * [web3.js](https://github.com/ethereum/web3.js/) - Javascript library used to interact with the Ethereum blockchain
 
-## openberry
+## Tutorial
 
-Anyone can become a blockchain engineer!
-
-openberry is a tutorial marketplace, designed to enable anyone to learn blockchain programming.
-
-**Website:**
-
-https://openberry.ac/
-
-**Medium:**
-
-https://medium.com/openberry
-
-**Twitter:**
-
-https://twitter.com/openberry_ac
+Tutorial available at [openberry](https://openberry.ac/)
